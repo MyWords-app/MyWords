@@ -1,0 +1,14 @@
+**Welcome to the MyWords Application GitHub Repository**
+
+**About MyWords**
+
+MyWords is an innovative application designed to assist individuals with Alzheimer’s Disease and related dementias (ADRD) by enhancing their word retrieval capabilities during daily interactions. By leveraging advanced Natural Language Processing (NLP) and machine learning techniques, MyWords acts as an intelligent cognitive assistant that supports users in real-time communication.
+
+**Application Features:**
+
+**Personalized Assistance:** Utilizes data provided by users to offer personalized word retrieval support.
+**Adaptive Learning:** Builds a dynamic associative network unique to each user for better prediction and assistance.
+**User-Centric Design:** Intuitive interface designed specifically for the cognitive profiles of elderly individuals with ADRD.
+**State-of-the-Art Technology:** Integrates parsing technology and Large Language Models (LLMs), with a goal of optimization for performance even with limited resources.
+**Feedback for Cognitive Reinforcement:** Aims to develop targeted activities to strengthen memory based on user interaction patterns.
+**Community-Driven Data Analysis:** Aggregates anonymized data to enhance understanding of ADRD progression.
