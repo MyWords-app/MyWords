@@ -12,3 +12,7 @@ MyWords is an application designed to assist individuals with Alzheimer’s Dise
 **State-of-the-Art Technology:** Integrates parsing technology and Large Language Models (LLMs), with a goal of optimization for performance even with limited resources.
 **Feedback for Cognitive Reinforcement:** Aims to develop targeted activities to strengthen memory based on user interaction patterns.
 **Community-Driven Data Analysis:** Aggregates anonymized data to enhance understanding of ADRD progression.
+
+**Acknowledgments:**
+
+MyWords is supported by funding from the Massachusetts AI and Technology Center (P30AG073107), a member of the a2Collective representing the Artificial Intelligence and Technology Collaboratories for Aging Research (AITC), which is funded by the National Institute on Aging (NIA), part of the National Institutes of Health (NIH).
